@@ -41,4 +41,5 @@ while (1):
  os.system('fast-gpio pwm 0 500 '+str(count/10))
  count=0
 
+
 print("By: Yousuf A")
